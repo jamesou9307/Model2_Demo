@@ -3,6 +3,9 @@
     <properties maven-id="javax.servlet:servlet-api:3.0-alpha-1" />
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/servlet-api-3.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/el-api-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/javax.servlet-api-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/javax.servlet.jsp-api-2.2.1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
